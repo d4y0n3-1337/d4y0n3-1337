@@ -218,18 +218,6 @@ Virtual network architectures designed to practice:
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=d4y0n3-1337&show_icons=true&theme=tokyonight)
-
----
-
-# 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4y0n3-1337&layout=compact&theme=tokyonight)
-
----
-
 # 🎯 Professional Vision
 
 My long-term goal is to become a **high-level cybersecurity professional** specializing in:
@@ -243,11 +231,6 @@ I want to help organizations **design secure infrastructures and defend against 
 ---
 
 # 🤝 Connect With Me
-
-📧 Email: your-email@email.com  
-
-💼 LinkedIn  
-https://linkedin.com/in/yourprofile
 
 🐙 GitHub  
 https://github.com/d4y0n3-1337
